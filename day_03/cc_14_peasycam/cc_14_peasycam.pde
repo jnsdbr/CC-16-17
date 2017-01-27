@@ -1,3 +1,10 @@
+/**
+ * Creative Coding HSOS WS16/17
+ * Peasycam example
+ *
+ * @author Jens de Boer <hello@jnsdbr.de>
+ */
+ 
 import peasy.*;
 
 PeasyCam cam;

@@ -1,5 +1,5 @@
 /**
- * Creative Coding HSOS/1617
+ * Creative Coding HSOS WS16/17
  * Basic ArrayList example
  *
  * @author Jens de Boer <hello@jnsdbr.de>

@@ -1,4 +1,9 @@
-
+/**
+ * Creative Coding HSOS WS16/17
+ * Media example
+ *
+ * @author Jens de Boer <hello@jnsdbr.de>
+ */
 PImage image;
 PShape shape;
 

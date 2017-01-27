@@ -1,3 +1,10 @@
+/**
+ * Creative Coding HSOS WS16/17
+ * Points on sphere example
+ *
+ * @author Jens de Boer <hello@jnsdbr.de>
+ */
+ 
 import peasy.*;
 
 PeasyCam cam;

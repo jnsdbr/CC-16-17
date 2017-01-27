@@ -1,6 +1,6 @@
 /**
- * Creative Coding HSOS/1617
- * Basic class example
+ * Creative Coding HSOS WS16/17
+ * Basic inheritance example
  *
  * @author Jens de Boer <hello@jnsdbr.de>
  */
